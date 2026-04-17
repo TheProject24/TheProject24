@@ -35,8 +35,7 @@ Currently pursuing a B.Sc. in Computer Science at Babcock University (Current CG
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Insert Your LinkedIn URL]
+- **LinkedIn:** www.linkedin.com/in/peter-kehinde-774b97368
 - **Email:** p3terkenny24@gmail.com
-- **Portfolio/Website:** [Insert Link if Applicable]
 
 > *"Focused on first-principles problem solving and absolute data integrity."*
