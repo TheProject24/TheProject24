@@ -1,41 +1,52 @@
-# Hi there, I'm Taiwo Kehinde 👋
+![MasterHead](https://www.readyengineering.com/wp-content/uploads/2019/06/programming_banner-1200x300.jpg)
 
-### Backend Engineer | Integrated Systems Developer | Data Architecture Enthusiast
+<h1 align="center">Hi 👋, my name is Taiwo Kehinde</h1>
+<h3 align="center">A detail-oriented Backend Engineer specializing in integrated systems, data infrastructure, and AI model deployment.</h3>
 
-I am a detail-oriented software engineer based in Lagos, Nigeria, with a proven track record in system development and full-stack implementation within both the public sector and fast-paced startups. I specialize in bridging the gap between raw data models and production-ready applications, optimizing data architecture, and building robust, scalable APIs. 
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-Currently pursuing a B.Sc. in Computer Science at Babcock University (Current CGPA: 4.36/5.0).
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheProject24&label=Profile%20views&color=0e75b6&style=flat" alt="TheProject24" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheProject24" alt="TheProject24" /></a> </p>
 
-### 🚀 What I Do
-- **System Architecture:** Designing complex data pipelines and high-performance backend infrastructure to ingest and normalize unstructured data.
-- **Data Engineering:** Implementing Medallion Architecture to optimize data flow through bronze, silver, and gold layers for maximum reporting accuracy.
-- **Integrated Systems:** Building background workers, schedulers, and real-time monitoring solutions to support critical file applications.
-- **DevOps & Infrastructure:** Managing containerized environments and ensuring seamless service integration (e.g., Redis queuing, Docker Compose).
+- 🔭 I’m currently working on **scalable data infrastructure and high-performance backend systems**.
 
-### 💼 Recent Experience Highlight
-**Lagos State Internal Revenue Service (LIRS)** | *Software Engineer Intern*
-- Contributed to high-performance software systems handling highly sensitive national financial records.
-- Developed comprehensive courier management & tracking solutions from architecture to UAT.
-- Leveraged a modern stack (Python, FastAPI, Node.js, PostgreSQL) to build scalable APIs and interfaces.
-- Engineered two critical background workers (including a scheduler) to support a real-time Enterprise File Monitoring application.
+- 🌱 I’m currently learning more about **Advanced Knowledge Representation and Rust**.
 
-**Urban Gravity** | *Lead Backend Developer*
-- Architected the core infrastructure for a proprietary data-driven housing platform for emerging markets.
+- 👨‍💻 All of my projects are available at [https://github.com/TheProject24](https://github.com/TheProject24)
 
----
+- 💬 Ask me about **Python, FastAPI, Database Design, and Medallion Architecture**.
 
-### 🛠️ Tech Stack
-* **Languages:** Python, Rust, JavaScript (Node.js), SQL
-* **Backend & APIs:** FastAPI, Flask, Express, RESTful APIs, Microservices
-* **Data & AI:** PostgreSQL, Medallion Architecture, TensorFlow, PyTorch, Pandas
-* **Infrastructure & Tools:** Docker, Docker Compose, Redis, Linux (Manjaro), Git
+- 📫 How to reach me: **p3terkenny24@gmail.com**
 
----
+- ⚡ Fun fact: **I rely on first-principles thinking to bridge the gap between raw data and real-world applications.**
 
-### 📫 Let's Connect
-- **LinkedIn:** www.linkedin.com/in/peter-kehinde-774b97368
-- **Email:** p3terkenny24@gmail.com
+<br>
 
-> *"Focused on first-principles problem solving and absolute data integrity."*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:p3terkenny24@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">   
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+</p>
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheProject24&show_icons=true&locale=en&layout=compact" alt="TheProject24 Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheProject24&show_icons=true&locale=en" alt="TheProject24 GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheProject24&" alt="TheProject24 Streak" /></p>
