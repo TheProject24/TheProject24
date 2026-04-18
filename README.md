@@ -1,41 +1,24 @@
-# Hi there, I'm Taiwo Kehinde 👋
+# 💫 About Me:
+I am Peter Kehinde, and I am driven by the intersection of systems engineering, high-stakes data integrity, and the practical application of machine learning. [cite_start]My core interests lie in first-principles problem solving—breaking down complex technical challenges to their most foundational elements and building back up with efficiency and security in mind[cite: 14, 51]. [cite_start]I am deeply fascinated by systems architecture and discrete structures, particularly how they form the backbone of scalable, distributed environments[cite: 33, 47].<br><br>My technical curiosities lean heavily toward backend engineering and the lifecycle of data, specifically through frameworks like the Medallion Architecture and advanced Knowledge Representation. [cite_start]I enjoy exploring the nuances of languages like Python, Rust, and JavaScript to build tools that optimize operational workflows and enhance system performance[cite: 8, 10]. [cite_start]Beyond the code, I am interested in financial technology and the challenge of translating complex technical concepts into accessible user experiences[cite: 27, 28]. [cite_start]Whether it is deep reinforcement learning, digital logic design, or real-time systems monitoring, I am focused on the rigor of computer science and the constant pursuit of high-fidelity, production-ready engineering[cite: 13, 19, 54].
 
-### Backend Engineer | Integrated Systems Developer | Data Architecture Enthusiast
 
-I am a detail-oriented software engineer based in Lagos, Nigeria, with a proven track record in system development and full-stack implementation within both the public sector and fast-paced startups. I specialize in bridging the gap between raw data models and production-ready applications, optimizing data architecture, and building robust, scalable APIs. 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itcannotalwaysbenight) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/peter-kehinde-774b97368) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TheProject0824) 
 
-Currently pursuing a B.Sc. in Computer Science at Babcock University (Current CGPA: 4.36/5.0).
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TheProject24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=TheProject24&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheProject24&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TheProject24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🚀 What I Do
-- **System Architecture:** Designing complex data pipelines and high-performance backend infrastructure to ingest and normalize unstructured data.
-- **Data Engineering:** Implementing Medallion Architecture to optimize data flow through bronze, silver, and gold layers for maximum reporting accuracy.
-- **Integrated Systems:** Building background workers, schedulers, and real-time monitoring solutions to support critical file applications.
-- **DevOps & Infrastructure:** Managing containerized environments and ensuring seamless service integration (e.g., Redis queuing, Docker Compose).
-
-### 💼 Recent Experience Highlight
-**Lagos State Internal Revenue Service (LIRS)** | *Software Engineer Intern*
-- Contributed to high-performance software systems handling highly sensitive national financial records.
-- Developed comprehensive courier management & tracking solutions from architecture to UAT.
-- Leveraged a modern stack (Python, FastAPI, Node.js, PostgreSQL) to build scalable APIs and interfaces.
-- Engineered two critical background workers (including a scheduler) to support a real-time Enterprise File Monitoring application.
-
-**Urban Gravity** | *Lead Backend Developer*
-- Architected the core infrastructure for a proprietary data-driven housing platform for emerging markets.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TheProject24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=TheProject24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack
-* **Languages:** Python, Rust, JavaScript (Node.js), SQL
-* **Backend & APIs:** FastAPI, Flask, Express, RESTful APIs, Microservices
-* **Data & AI:** PostgreSQL, Medallion Architecture, TensorFlow, PyTorch, Pandas
-* **Infrastructure & Tools:** Docker, Docker Compose, Redis, Linux (Manjaro), Git
-
----
-
-### 📫 Let's Connect
-- **LinkedIn:** www.linkedin.com/in/peter-kehinde-774b97368
-- **Email:** p3terkenny24@gmail.com
-
-> *"Focused on first-principles problem solving and absolute data integrity."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
